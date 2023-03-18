@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SuperHeroApp</string>
+    <string name="hero1">Eco-Man</string>
+    <string name="hero2">Lightning Bolt</string>
+    <string name="hero3">La Araña</string>
+    <string name="hero4">Time Keeper</string>
+    <string name="hero5">Luna Llena</string>
+    <string name="hero6">Halcón Veloz</string>
+    <string name="description1">un superhéroe cuyo poder es controlar y manipular el medio ambiente.
+        Puede controlar el clima, crear terremotos y tsunamis, y hacer crecer plantas en segundos. Usa su poder para proteger
+        la naturaleza y luchar contra aquellos que la dañan.</string>
+    <string name="description2">un superhéroe con la capacidad de controlar la electricidad y la energía.
+        Puede lanzar rayos, mover objetos con su mente y volar a velocidades increíbles. Utiliza su poder para ayudar
+        a los necesitados y luchar contra los villanos que amenazan la ciudad.
+    </string>
+    <string name="description3">un superhéroe con habilidades arácnidas. Puede trepar paredes, lanzar telarañas y tener una fuerza sobrehumana.
+        Usa sus habilidades para atrapar a los criminales y proteger a la ciudad.
+    </string>
+    <string name="description4">un superhéroe con el poder de controlar el tiempo. Puede viajar en el tiempo, detenerlo y manipularlo a su antojo.
+        Usa su poder para evitar desastres y salvar vidas.</string>
+    <string name="description5">una superhéroe que obtiene sus poderes de la luna llena. Puede transformarse en un ser poderoso, con fuerza sobrehumana y la capacidad de lanzar rayos lunares.
+        Utiliza sus habilidades para luchar contra la oscuridad y proteger a la ciudad.</string>
+    <string name="description6">un superhéroe con la capacidad de volar a velocidades increíbles y ver a largas distancias.
+        Usa su poder para patrullar la ciudad y evitar crímenes antes de que sucedan.</string>
+</resources>
